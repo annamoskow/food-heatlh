@@ -25,4 +25,4 @@ Dataset: [CDC PLACES](https://www.cdc.gov/places/index.html)
 ---
 
 ###  Viewer
-- [Jupyter Notebook](https://nbviewer.org/github.com/annamoskow/food-heatlh/blob/main/PLACES_analysis.ipynb)
+- [Jupyter Notebook](https://nbviewer.org/github/annamoskow/food-heatlh/blob/main/PLACES_analysis.ipynb)
